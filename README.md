@@ -1,8 +1,7 @@
 
-# Install the prerequisite applications, powertools and libmodplug
+# Install the prerequisite applications
 
-- https://github.com/computate-org/computate_powertools
-- https://github.com/computate-org/computate_libmodplug
+- https://github.com/computate-org/computate_libcaca
 
 # Install the toilet ansible role
 
